@@ -1,1 +1,3 @@
 # CWS
+
+Yesterday is history. Tomorrow is a mystery. Today is a gift. That's why we call it 'The Present'. 
